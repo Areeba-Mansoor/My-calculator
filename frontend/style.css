@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #0b0f1a, #1a1f2e);
+    background: linear-gradient(135deg, #667cb9, #1e1a2e);
     font-family: 'Segoe UI', sans-serif;
 }
 
@@ -13,7 +13,7 @@ body {
     width: 400px;
     padding: 22px;
     border-radius: 8px;
-    background: rgba(255, 255, 255, 0.06);
+    background: rgba(131, 2, 2, 0.08);
     backdrop-filter: blur(20px);
     box-shadow: 0 25px 60px rgba(0,0,0,0.7);
     border: 1px solid rgba(255,255,255,0.08);
@@ -29,8 +29,8 @@ body {
     padding: 10px;
     border: none;
     border-radius: 5px;
-    background: rgba(0,0,0,0.35);
-    color: #fff;
+    background: rgba(0,0,0,0.4);
+    color: #ffffff;
     outline: none;
 }
 
@@ -52,7 +52,7 @@ button {
     padding: 18px;
     font-size: 18px;
     border: none;
-    border-radius: 18px;
+    border-radius: 10px;
     cursor: pointer;
     color: white;
     background: rgba(255,255,255,0.08);
