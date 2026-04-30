@@ -8,7 +8,11 @@
   ],
   "routes": [
     {
-      "src": "/api/(.*)",
+      "src": "/calculator",
+      "dest": "backend/index.js"
+    },
+    {
+      "src": "/history",
       "dest": "backend/index.js"
     },
     {
